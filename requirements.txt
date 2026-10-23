@@ -1,0 +1,11 @@
+pandas
+numpy
+cbbd
+joblib
+xgboost
+streamlit
+python-dotenv
+scikit-learn
+matplotlib
+jinja2
+tzdata
