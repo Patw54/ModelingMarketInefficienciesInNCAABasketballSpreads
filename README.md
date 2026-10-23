@@ -97,9 +97,9 @@ The values below are from the saved notebook outputs. MAE is measured in points;
 
 | Test season | Model MAE | Market baseline MAE | Overall ATS accuracy |
 |---|---:|---:|---:|
-| 2024 | 8.8277 | 8.8499 | 51.90% |
-| 2025 | 8.6039 | 8.6266 | 52.35% |
-| 2026 | 8.9315 | 8.9418 | 50.86% |
+| 2024 | 8.8317 | 8.8499 | 51.67% |
+| 2025 | 8.6017 | 8.6266 | 52.66% |
+| 2026 | 8.9283 | 8.9418 | 50.93% |
 
 The model's overall MAE improvements are small. The notebook separately examines a more selective away policy.
 
@@ -107,11 +107,12 @@ The model's overall MAE improvements are small. The notebook separately examines
 
 The policy selects away teams when predicted edge is at or below the negative of the 95th percentile of absolute validation away predictions. This represents the strongest 5% of negative validation predictions. The same numerical cutoff is applied to test predictions, so test selection volume need not equal 5%.
 
-| Test season | Away cutoff | Selections | Wins | Losses | Pushes | Win rate |
+| Test season | Away cutoff (rounded) | Selections | Wins | Losses | Pushes | Win rate |
 |---|---:|---:|---:|---:|---:|---:|
-| 2024 | -1.3854 | 99 | 60 | 39 | 0 | 60.61% |
-| 2025 | -1.3114 | 115 | 68 | 47 | 0 | 59.13% |
-| 2026 | -1.2408 | 85 | 51 | 34 | 0 | 60.00% |
+| 2024 | -1.44 | 100 | 61 | 39 | 0 | 61.00% |
+| 2025 | -1.42 | 109 | 69 | 40 | 0 | 63.30% |
+| 2026 | -1.13 | 91 | 57 | 34 | 0 | 62.64% |
+| **Combined** | Season-specific | **300** | **187** | **113** | **0** | **62.33%** |
 
 Cutoffs are rounded for display; the dashboard uses the saved full-precision cutoff. Win rates exclude pushes. The policy was chosen during development using 2024 and 2025 results. Prior experimentation also involved 2026, so these results should be interpreted as retrospective rather than a completely untouched final holdout.
 

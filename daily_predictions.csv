@@ -1,94 +1,94 @@
 game_id,start_date,away_team,home_team,spread,pred_edge,venue,city,state
-210268,2025-12-13 12:00:00-05:00,UL Monroe,Miami,-35.5,0.041151807,Watsco Center,Coral Gables,FL
-213896,2025-12-13 12:00:00-05:00,UAlbany,Florida Atlantic,-19.5,0.9799951,Eleanor R. Baldwin Arena,Boca Raton,FL
-213897,2025-12-13 12:00:00-05:00,Texas Tech,Arkansas,-1.5,-0.4631913,American Airlines Center,Dallas,TX
-213898,2025-12-13 12:00:00-05:00,Massachusetts,Florida State,-12.5,0.2736413,Amerant Bank Arena,Sunrise,FL
-213901,2025-12-13 12:00:00-05:00,DePaul,Wichita State,-7.5,0.22861256,Charles Koch Arena,Wichita,KS
-213902,2025-12-13 12:00:00-05:00,Michigan State,Penn State,11.5,-0.7553684,Bryce Jordan Center,University Park,PA
-213909,2025-12-13 12:00:00-05:00,Iona,St. John's,-28.5,1.9133213,Carnesecca Arena,Queens,NY
-213915,2025-12-13 12:00:00-05:00,Central Michigan,Stony Brook,-6.5,1.416544,Stony Brook Arena,Stony Brook,NY
-213899,2025-12-13 12:30:00-05:00,Old Dominion,George Mason,-16.5,-0.22211498,EagleBank Arena,Fairfax,VA
-210259,2025-12-13 13:00:00-05:00,Oklahoma,Oklahoma State,-2.5,-0.39341486,Paycom Center,Oklahoma City,OK
-210264,2025-12-13 13:00:00-05:00,Cal State Northridge,Delaware,-1.5,-0.65762687,Bob Carpenter Center,Newark,DE
-213914,2025-12-13 13:00:00-05:00,Northern Illinois,Elon,-11.5,-0.3041321,Schar Center,Elon,NC
-213917,2025-12-13 13:00:00-05:00,Toledo,Robert Morris,1.5,0.6398774,UPMC Events Center,Moon Township,PA
-210244,2025-12-13 14:00:00-05:00,Evansville,Notre Dame,-14.5,-0.66179544,Purcell Pavilion,South Bend,IN
-210245,2025-12-13 14:00:00-05:00,South Carolina Upstate,North Carolina,-29.5,2.2701714,Dean E. Smith Center,Chapel Hill,NC
-210257,2025-12-13 14:00:00-05:00,Canisius,Maine,-6.5,-0.7893814,The Pit in Memorial Gymnasium,Orono,ME
-210267,2025-12-13 14:00:00-05:00,Prairie View A&M,South Dakota,-7.5,0.45964062,Sanford Coyote Sports Center,Vermillion,SD
-213890,2025-12-13 14:00:00-05:00,UC Santa Barbara,Utah Valley,-5.5,-0.79709804,Delta Center,Salt Lake City,UT
-213891,2025-12-13 14:00:00-05:00,Jackson State,Northwestern,-30.5,0.3062615,Welsh-Ryan Arena,Evanston,IL
-213908,2025-12-13 14:00:00-05:00,Boston University,Dartmouth,-2.5,-0.65822494,Leede Arena,Hanover,NH
-213918,2025-12-13 14:00:00-05:00,Northern Kentucky,Bellarmine,4.5,0.32320976,Knights Hall,Louisville,KY
-213919,2025-12-13 14:00:00-05:00,Marquette,Purdue,-16.5,0.10221035,Mackey Arena,West Lafayette,IN
-213920,2025-12-13 14:00:00-05:00,Providence,Butler,-4.5,-0.6750847,Hinkle Fieldhouse,Indianapolis,IN
-213923,2025-12-13 14:00:00-05:00,Mercyhurst,Davidson,-11.5,-0.6268871,John M. Belk Arena,Davidson,NC
-213928,2025-12-13 14:00:00-05:00,Cincinnati,Georgia,-5.5,0.31487975,State Farm Arena,Atlanta,GA
-213931,2025-12-13 14:00:00-05:00,Sacred Heart,NJIT,6.5,-0.9003241,Joel & Diane Bloom Wellness and Events Center,Newark,NJ
-213932,2025-12-13 14:00:00-05:00,Manhattan,Fordham,-8.5,0.4904795,Rose Hill Gym,Bronx,NY
-213933,2025-12-13 14:00:00-05:00,UMass Lowell,Quinnipiac,-12.5,0.2390531,M&T Bank Arena,Hamden,CT
-358386,2025-12-13 14:00:00-05:00,St. Thomas-Minnesota,UNC Asheville,3.5,-0.79010767,Kimmel Arena,Asheville,NC
-358387,2025-12-13 14:00:00-05:00,Western Illinois,North Dakota,-7.5,0.045932043,Betty Engelstad Sioux Center,Grand Forks,ND
-358388,2025-12-13 14:00:00-05:00,North Dakota State,Drake,-5.5,-0.73106855,Knapp Center,Des Moines,IA
-358389,2025-12-13 14:00:00-05:00,Jacksonville State,Georgia State,3.5,-0.613837,GSU Convocation Center,Atlanta,GA
-213921,2025-12-13 14:30:00-05:00,Saint Peter's,Georgetown,-20.5,0.09482731,Capital One Arena,Washington,DC
-210252,2025-12-13 14:52:00-05:00,George Washington,Florida,-13.5,0.23358414,Amerant Bank Arena,Sunrise,FL
-210262,2025-12-13 15:00:00-05:00,Mercer,Clemson,-22.5,0.67794263,Littlejohn Coliseum,Clemson,SC
-210270,2025-12-13 15:00:00-05:00,New Orleans,Houston,-32.5,3.2978592,Fertitta Center,Houston,TX
-213886,2025-12-13 15:00:00-05:00,Hampton,Howard,2.5,0.3182214,Entertainment & Sports Arena,Washington,DC
-213887,2025-12-13 15:00:00-05:00,Southern Miss,Ole Miss,-12.5,-0.6751072,Mississippi Coast Coliseum,Biloxi,MS
-213892,2025-12-13 15:00:00-05:00,Louisiana,Louisiana Tech,-10.5,0.25649956,Thomas Assembly Center,Ruston,LA
-213895,2025-12-13 15:00:00-05:00,Arkansas State,Rice,2.5,-0.33903614,Tudor Fieldhouse,Houston,TX
-213926,2025-12-13 15:00:00-05:00,Kansas State,Creighton,-4.5,-0.0029142462,CHI Health Center Omaha,Omaha,NE
-213934,2025-12-13 15:00:00-05:00,Delaware State,Longwood,-13.5,0.13094285,Joan Perry Brock Center,Farmville,VA
-213935,2025-12-13 15:00:00-05:00,UNC Wilmington,Valparaiso,4.5,0.08314762,Athletics-Recreation Center,Valparaiso,IN
-358390,2025-12-13 15:00:00-05:00,Miami (OH),Eastern Kentucky,5.5,0.39171928,Baptist Health Arena,Richmond,KY
-358391,2025-12-13 15:00:00-05:00,Tulsa,New Mexico State,3.5,-0.0866184,Comerica Center,Frisco,TX
-210247,2025-12-13 15:30:00-05:00,Memphis,Louisville,-16.5,1.250651,KFC Yum! Center,Louisville,KY
-210240,2025-12-13 16:00:00-05:00,Hofstra,Syracuse,-9.5,-0.93354756,JMA Wireless Dome,Syracuse,NY
-210258,2025-12-13 16:00:00-05:00,Marist,Bryant,2.5,0.40903857,Chace Athletic Center,Smithfield,RI
-210260,2025-12-13 16:00:00-05:00,Niagara,Morgan State,-1.5,-0.20858955,Hill Field House,Baltimore,MD
-210263,2025-12-13 16:00:00-05:00,Central Connecticut,Binghamton,7.5,-0.045413774,Events Center (Binghamton),Binghamton,NY
-210265,2025-12-13 16:00:00-05:00,La Salle,Long Island University,-2.5,-1.2636024,Steinberg Wellness Center,Brooklyn,NY
-213900,2025-12-13 16:00:00-05:00,UC Davis,Oregon,-13.5,0.49662706,Matthew Knight Arena,Eugene,OR
-213904,2025-12-13 16:00:00-05:00,Nebraska,Illinois,-9.5,0.5045022,State Farm Center,Champaign,IL
-213916,2025-12-13 16:00:00-05:00,Wright State,Marshall,-4.5,0.8144477,Cam Henderson Center,Huntington,WV
-213927,2025-12-13 16:00:00-05:00,UTSA,Colorado,-22.5,0.5611619,CU Events Center,Boulder,CO
-213936,2025-12-13 16:00:00-05:00,Cal State Fullerton,Denver,-3.5,0.37663713,Hamilton Gymnasium,Denver,CO
-213937,2025-12-13 16:00:00-05:00,Murray State,Akron,-4.5,-0.3878148,Lee's Family Forum,Henderson,NV
-358392,2025-12-13 16:00:00-05:00,UIC,Belmont,-13.5,-0.14933397,Curb Event Center Arena,Nashville,TN
-210243,2025-12-13 16:30:00-05:00,Pittsburgh,Villanova,-10.5,-0.36627296,Finneran Pavilion,Villanova,PA
-210269,2025-12-13 16:30:00-05:00,SE Louisiana,Houston Christian,-2.5,-0.19956833,Sharp Gymnasium,Houston,TX
-213913,2025-12-13 16:50:00-05:00,Chattanooga,Auburn,-19.5,0.1632666,Neville Arena,Auburn,AL
-210248,2025-12-13 17:00:00-05:00,Northwestern State,California,-19.5,-0.24266748,Haas Pavilion,Berkeley,CA
-210249,2025-12-13 17:00:00-05:00,St. Bonaventure,Ohio,6.5,-0.43645737,Rocket Mortgage FieldHouse,Cleveland,OH
-210261,2025-12-13 17:00:00-05:00,Illinois State,Utah State,-8.5,0.59767985,,,
-213911,2025-12-13 17:00:00-05:00,Montana State,Oregon State,-1.5,-0.35104126,Gill Coliseum,Corvallis,OR
-210246,2025-12-13 17:30:00-05:00,Kansas,NC State,-1.5,-0.29311612,Lenovo Center,Raleigh,NC
-210251,2025-12-13 18:00:00-05:00,Southern Illinois,Richmond,-4.5,0.040890895,Robins Center,Richmond,VA
-210256,2025-12-13 18:00:00-05:00,Mount St. Mary's,Loyola Maryland,2.5,1.6806451,Reitz Arena,Baltimore,MD
-213912,2025-12-13 18:00:00-05:00,Southern Utah,Washington,-25.5,-0.3667275,Alaska Airlines Arena,Seattle,WA
-213922,2025-12-13 18:00:00-05:00,Oakland,Northern Iowa,-8.5,0.43589717,McLeod Center,Cedar Falls,IA
-213940,2025-12-13 18:00:00-05:00,Northern Arizona,San Diego,-4.5,0.14924851,Jenny Craig Pavilion,San Diego,CA
-213906,2025-12-13 18:30:00-05:00,Central Arkansas,Vanderbilt,-35.5,0.49999917,Memorial Gymnasium (TN),Nashville,TN
-210241,2025-12-13 19:00:00-05:00,Stanford,San José State,8.5,-0.4885632,Provident Credit Union Event Center,San Jose,CA
-210255,2025-12-13 19:00:00-05:00,North Florida,Dayton,-30.5,1.6941841,UD Arena,Dayton,OH
-213905,2025-12-13 19:00:00-05:00,Georgia Southern,West Georgia,3.5,-0.07505038,The Coliseum,Carrollton,GA
-213930,2025-12-13 19:00:00-05:00,Arizona State,Santa Clara,-1.5,0.89305985,Lee's Family Forum,Henderson,NV
-358393,2025-12-13 19:00:00-05:00,The Citadel,South Carolina,-23.5,-1.2764982,Colonial Life Arena,Columbia,SC
-213888,2025-12-13 19:45:00-05:00,Indiana,Kentucky,-3.5,0.25534484,Rupp Arena,Lexington,KY
-210250,2025-12-13 20:00:00-05:00,San Francisco,Saint Louis,-12.5,0.05010833,Chaifetz Arena,St. Louis,MO
-213893,2025-12-13 20:00:00-05:00,Rutgers,Seton Hall,-12.5,0.3885281,Prudential Center,Newark,NJ
-213903,2025-12-13 20:00:00-05:00,Michigan,Maryland,19.5,-0.77234274,XFINITY Center,College Park,MD
-213924,2025-12-13 20:00:00-05:00,West Virginia,Ohio State,3.5,-0.580999,Rocket Mortgage FieldHouse,Cleveland,OH
-213943,2025-12-13 20:00:00-05:00,Coastal Carolina,Grand Canyon,-17.5,0.7326927,Global Credit Union Arena,Phoenix,AZ
-210242,2025-12-13 20:30:00-05:00,SMU,LSU,-1.5,0.722863,Smoothie King Center,New Orleans,LA
-213929,2025-12-13 21:00:00-05:00,UC Riverside,BYU,-33.5,1.1112047,Marriott Center,Provo,UT
-210266,2025-12-13 21:30:00-05:00,Arizona,Alabama,2.5,0.5019076,Legacy Arena at BJCC,Birmingham,AL
-213941,2025-12-13 21:30:00-05:00,Pepperdine,Cal State Bakersfield,-1.5,-1.5971285,Icardo Center,Bakersfield,CA
-213945,2025-12-13 21:30:00-05:00,Tennessee State,UNLV,-12.5,-0.39425862,Gentry Center,Nashville,TN
-210254,2025-12-13 22:00:00-05:00,Duquesne,Nevada,-8.5,0.360324,Lawlor Events Center,Reno,NV
-213925,2025-12-13 22:00:00-05:00,Mississippi State,Utah,2.5,-0.05909386,Delta Center,Salt Lake City,UT
-210253,2025-12-13 23:45:00-05:00,UCLA,Gonzaga,-9.5,-0.6463612,Climate Pledge Arena,Seattle,WA
-213907,2025-12-13 23:59:00-05:00,UTEP,Hawai'i,-12.5,0.5069441,Stan Sheriff Center,Honolulu,HI
-213946,2025-12-13 23:59:00-05:00,Tulane,UC San Diego,-6.5,-0.84205115,Lee's Family Forum,Henderson,NV
+210268,2025-12-13 12:00:00-05:00,UL Monroe,Miami,-35.5,0.019031463,Watsco Center,Coral Gables,FL
+213896,2025-12-13 12:00:00-05:00,UAlbany,Florida Atlantic,-19.5,0.52368814,Eleanor R. Baldwin Arena,Boca Raton,FL
+213897,2025-12-13 12:00:00-05:00,Texas Tech,Arkansas,-1.5,-0.14220057,American Airlines Center,Dallas,TX
+213898,2025-12-13 12:00:00-05:00,Massachusetts,Florida State,-12.5,-0.40097734,Amerant Bank Arena,Sunrise,FL
+213901,2025-12-13 12:00:00-05:00,DePaul,Wichita State,-7.5,0.13028449,Charles Koch Arena,Wichita,KS
+213902,2025-12-13 12:00:00-05:00,Michigan State,Penn State,11.5,-0.41449985,Bryce Jordan Center,University Park,PA
+213909,2025-12-13 12:00:00-05:00,Iona,St. John's,-28.5,2.5084343,Carnesecca Arena,Queens,NY
+213915,2025-12-13 12:00:00-05:00,Central Michigan,Stony Brook,-6.5,0.8375931,Stony Brook Arena,Stony Brook,NY
+213899,2025-12-13 12:30:00-05:00,Old Dominion,George Mason,-16.5,-0.11030655,EagleBank Arena,Fairfax,VA
+210259,2025-12-13 13:00:00-05:00,Oklahoma,Oklahoma State,-2.5,-0.43755427,Paycom Center,Oklahoma City,OK
+210264,2025-12-13 13:00:00-05:00,Cal State Northridge,Delaware,-1.5,-0.26439852,Bob Carpenter Center,Newark,DE
+213914,2025-12-13 13:00:00-05:00,Northern Illinois,Elon,-11.5,0.05305907,Schar Center,Elon,NC
+213917,2025-12-13 13:00:00-05:00,Toledo,Robert Morris,1.5,0.13020815,UPMC Events Center,Moon Township,PA
+210244,2025-12-13 14:00:00-05:00,Evansville,Notre Dame,-14.5,-0.5569393,Purcell Pavilion,South Bend,IN
+210245,2025-12-13 14:00:00-05:00,South Carolina Upstate,North Carolina,-29.5,1.6732001,Dean E. Smith Center,Chapel Hill,NC
+210257,2025-12-13 14:00:00-05:00,Canisius,Maine,-6.5,-0.9180189,The Pit in Memorial Gymnasium,Orono,ME
+210267,2025-12-13 14:00:00-05:00,Prairie View A&M,South Dakota,-7.5,0.51485914,Sanford Coyote Sports Center,Vermillion,SD
+213890,2025-12-13 14:00:00-05:00,UC Santa Barbara,Utah Valley,-5.5,-0.7945539,Delta Center,Salt Lake City,UT
+213891,2025-12-13 14:00:00-05:00,Jackson State,Northwestern,-30.5,0.13101624,Welsh-Ryan Arena,Evanston,IL
+213908,2025-12-13 14:00:00-05:00,Boston University,Dartmouth,-2.5,-0.5839066,Leede Arena,Hanover,NH
+213918,2025-12-13 14:00:00-05:00,Northern Kentucky,Bellarmine,4.5,0.3805244,Knights Hall,Louisville,KY
+213919,2025-12-13 14:00:00-05:00,Marquette,Purdue,-16.5,0.023190456,Mackey Arena,West Lafayette,IN
+213920,2025-12-13 14:00:00-05:00,Providence,Butler,-4.5,-0.62541324,Hinkle Fieldhouse,Indianapolis,IN
+213923,2025-12-13 14:00:00-05:00,Mercyhurst,Davidson,-11.5,-0.31934157,John M. Belk Arena,Davidson,NC
+213928,2025-12-13 14:00:00-05:00,Cincinnati,Georgia,-5.5,0.15014637,State Farm Arena,Atlanta,GA
+213931,2025-12-13 14:00:00-05:00,Sacred Heart,NJIT,6.5,-0.7298363,Joel & Diane Bloom Wellness and Events Center,Newark,NJ
+213932,2025-12-13 14:00:00-05:00,Manhattan,Fordham,-8.5,0.37284613,Rose Hill Gym,Bronx,NY
+213933,2025-12-13 14:00:00-05:00,UMass Lowell,Quinnipiac,-12.5,-0.3939649,M&T Bank Arena,Hamden,CT
+358386,2025-12-13 14:00:00-05:00,St. Thomas-Minnesota,UNC Asheville,3.5,-0.88332355,Kimmel Arena,Asheville,NC
+358387,2025-12-13 14:00:00-05:00,Western Illinois,North Dakota,-7.5,0.51264936,Betty Engelstad Sioux Center,Grand Forks,ND
+358388,2025-12-13 14:00:00-05:00,North Dakota State,Drake,-5.5,-0.8959035,Knapp Center,Des Moines,IA
+358389,2025-12-13 14:00:00-05:00,Jacksonville State,Georgia State,3.5,-0.64881206,GSU Convocation Center,Atlanta,GA
+213921,2025-12-13 14:30:00-05:00,Saint Peter's,Georgetown,-20.5,-0.15751223,Capital One Arena,Washington,DC
+210252,2025-12-13 14:52:00-05:00,George Washington,Florida,-13.5,0.15324402,Amerant Bank Arena,Sunrise,FL
+210262,2025-12-13 15:00:00-05:00,Mercer,Clemson,-22.5,0.22064048,Littlejohn Coliseum,Clemson,SC
+210270,2025-12-13 15:00:00-05:00,New Orleans,Houston,-32.5,2.9629054,Fertitta Center,Houston,TX
+213886,2025-12-13 15:00:00-05:00,Hampton,Howard,2.5,0.35180232,Entertainment & Sports Arena,Washington,DC
+213887,2025-12-13 15:00:00-05:00,Southern Miss,Ole Miss,-12.5,-0.46622026,Mississippi Coast Coliseum,Biloxi,MS
+213892,2025-12-13 15:00:00-05:00,Louisiana,Louisiana Tech,-10.5,-0.053506855,Thomas Assembly Center,Ruston,LA
+213895,2025-12-13 15:00:00-05:00,Arkansas State,Rice,2.5,-0.47553778,Tudor Fieldhouse,Houston,TX
+213926,2025-12-13 15:00:00-05:00,Kansas State,Creighton,-4.5,0.16238235,CHI Health Center Omaha,Omaha,NE
+213934,2025-12-13 15:00:00-05:00,Delaware State,Longwood,-13.5,-0.24914154,Joan Perry Brock Center,Farmville,VA
+213935,2025-12-13 15:00:00-05:00,UNC Wilmington,Valparaiso,4.5,0.32105523,Athletics-Recreation Center,Valparaiso,IN
+358390,2025-12-13 15:00:00-05:00,Miami (OH),Eastern Kentucky,5.5,0.210377,Baptist Health Arena,Richmond,KY
+358391,2025-12-13 15:00:00-05:00,Tulsa,New Mexico State,3.5,-0.227419,Comerica Center,Frisco,TX
+210247,2025-12-13 15:30:00-05:00,Memphis,Louisville,-16.5,1.3488117,KFC Yum! Center,Louisville,KY
+210240,2025-12-13 16:00:00-05:00,Hofstra,Syracuse,-9.5,-1.0411617,JMA Wireless Dome,Syracuse,NY
+210258,2025-12-13 16:00:00-05:00,Marist,Bryant,2.5,0.031243844,Chace Athletic Center,Smithfield,RI
+210260,2025-12-13 16:00:00-05:00,Niagara,Morgan State,-1.5,-0.10300486,Hill Field House,Baltimore,MD
+210263,2025-12-13 16:00:00-05:00,Central Connecticut,Binghamton,7.5,-0.1300811,Events Center (Binghamton),Binghamton,NY
+210265,2025-12-13 16:00:00-05:00,La Salle,Long Island University,-2.5,-0.95554376,Steinberg Wellness Center,Brooklyn,NY
+213900,2025-12-13 16:00:00-05:00,UC Davis,Oregon,-13.5,0.26332405,Matthew Knight Arena,Eugene,OR
+213904,2025-12-13 16:00:00-05:00,Nebraska,Illinois,-9.5,0.4307749,State Farm Center,Champaign,IL
+213916,2025-12-13 16:00:00-05:00,Wright State,Marshall,-4.5,0.24413747,Cam Henderson Center,Huntington,WV
+213927,2025-12-13 16:00:00-05:00,UTSA,Colorado,-22.5,0.13333027,CU Events Center,Boulder,CO
+213936,2025-12-13 16:00:00-05:00,Cal State Fullerton,Denver,-3.5,1.2748505,Hamilton Gymnasium,Denver,CO
+213937,2025-12-13 16:00:00-05:00,Murray State,Akron,-4.5,-0.59885967,Lee's Family Forum,Henderson,NV
+358392,2025-12-13 16:00:00-05:00,UIC,Belmont,-13.5,0.27898625,Curb Event Center Arena,Nashville,TN
+210243,2025-12-13 16:30:00-05:00,Pittsburgh,Villanova,-10.5,-0.055942353,Finneran Pavilion,Villanova,PA
+210269,2025-12-13 16:30:00-05:00,SE Louisiana,Houston Christian,-2.5,-0.24305503,Sharp Gymnasium,Houston,TX
+213913,2025-12-13 16:50:00-05:00,Chattanooga,Auburn,-19.5,0.19329286,Neville Arena,Auburn,AL
+210248,2025-12-13 17:00:00-05:00,Northwestern State,California,-19.5,-0.10352819,Haas Pavilion,Berkeley,CA
+210249,2025-12-13 17:00:00-05:00,St. Bonaventure,Ohio,6.5,-0.33926067,Rocket Mortgage FieldHouse,Cleveland,OH
+210261,2025-12-13 17:00:00-05:00,Illinois State,Utah State,-8.5,0.44863442,,,
+213911,2025-12-13 17:00:00-05:00,Montana State,Oregon State,-1.5,-0.63856804,Gill Coliseum,Corvallis,OR
+210246,2025-12-13 17:30:00-05:00,Kansas,NC State,-1.5,-0.24844679,Lenovo Center,Raleigh,NC
+210251,2025-12-13 18:00:00-05:00,Southern Illinois,Richmond,-4.5,-0.2938898,Robins Center,Richmond,VA
+210256,2025-12-13 18:00:00-05:00,Mount St. Mary's,Loyola Maryland,2.5,1.7771276,Reitz Arena,Baltimore,MD
+213912,2025-12-13 18:00:00-05:00,Southern Utah,Washington,-25.5,-0.12862013,Alaska Airlines Arena,Seattle,WA
+213922,2025-12-13 18:00:00-05:00,Oakland,Northern Iowa,-8.5,1.6563333,McLeod Center,Cedar Falls,IA
+213940,2025-12-13 18:00:00-05:00,Northern Arizona,San Diego,-4.5,0.29019883,Jenny Craig Pavilion,San Diego,CA
+213906,2025-12-13 18:30:00-05:00,Central Arkansas,Vanderbilt,-35.5,0.3489625,Memorial Gymnasium (TN),Nashville,TN
+210241,2025-12-13 19:00:00-05:00,Stanford,San José State,8.5,-0.6339471,Provident Credit Union Event Center,San Jose,CA
+210255,2025-12-13 19:00:00-05:00,North Florida,Dayton,-30.5,1.9792825,UD Arena,Dayton,OH
+213905,2025-12-13 19:00:00-05:00,Georgia Southern,West Georgia,3.5,0.14328356,The Coliseum,Carrollton,GA
+213930,2025-12-13 19:00:00-05:00,Arizona State,Santa Clara,-1.5,0.98237586,Lee's Family Forum,Henderson,NV
+358393,2025-12-13 19:00:00-05:00,The Citadel,South Carolina,-23.5,-0.6604036,Colonial Life Arena,Columbia,SC
+213888,2025-12-13 19:45:00-05:00,Indiana,Kentucky,-3.5,0.093884744,Rupp Arena,Lexington,KY
+210250,2025-12-13 20:00:00-05:00,San Francisco,Saint Louis,-12.5,0.21251673,Chaifetz Arena,St. Louis,MO
+213893,2025-12-13 20:00:00-05:00,Rutgers,Seton Hall,-12.5,0.7623296,Prudential Center,Newark,NJ
+213903,2025-12-13 20:00:00-05:00,Michigan,Maryland,19.5,-0.58924115,XFINITY Center,College Park,MD
+213924,2025-12-13 20:00:00-05:00,West Virginia,Ohio State,3.5,-0.5749846,Rocket Mortgage FieldHouse,Cleveland,OH
+213943,2025-12-13 20:00:00-05:00,Coastal Carolina,Grand Canyon,-17.5,1.0647312,Global Credit Union Arena,Phoenix,AZ
+210242,2025-12-13 20:30:00-05:00,SMU,LSU,-1.5,0.47012234,Smoothie King Center,New Orleans,LA
+213929,2025-12-13 21:00:00-05:00,UC Riverside,BYU,-33.5,1.0204881,Marriott Center,Provo,UT
+210266,2025-12-13 21:30:00-05:00,Arizona,Alabama,2.5,0.06552737,Legacy Arena at BJCC,Birmingham,AL
+213941,2025-12-13 21:30:00-05:00,Pepperdine,Cal State Bakersfield,-1.5,-1.2701205,Icardo Center,Bakersfield,CA
+213945,2025-12-13 21:30:00-05:00,Tennessee State,UNLV,-12.5,-0.5826933,Gentry Center,Nashville,TN
+210254,2025-12-13 22:00:00-05:00,Duquesne,Nevada,-8.5,0.32628223,Lawlor Events Center,Reno,NV
+213925,2025-12-13 22:00:00-05:00,Mississippi State,Utah,2.5,-0.12291576,Delta Center,Salt Lake City,UT
+210253,2025-12-13 23:45:00-05:00,UCLA,Gonzaga,-9.5,-0.16109116,Climate Pledge Arena,Seattle,WA
+213907,2025-12-13 23:59:00-05:00,UTEP,Hawai'i,-12.5,0.7316749,Stan Sheriff Center,Honolulu,HI
+213946,2025-12-13 23:59:00-05:00,Tulane,UC San Diego,-6.5,-0.90077037,Lee's Family Forum,Henderson,NV

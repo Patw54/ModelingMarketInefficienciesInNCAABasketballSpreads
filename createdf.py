@@ -152,6 +152,7 @@ def compute_stats_get_lines(game_teams_2024: pd.DataFrame, lines_raw_2024: pd.Da
         "three_point_attempt_rate",
         "free_throw_rate",
         "opp_free_throw_rate",
+        "three_point_field_goal_percentage"
     ]
 
     for team, team_df in game_teams_2024_sorted.groupby("team_id"):
@@ -417,6 +418,11 @@ def compute_stats_get_lines(game_teams_2024: pd.DataFrame, lines_raw_2024: pd.Da
                     o["free_throws"]["attempted"],
                     o["field_goals"]["attempted"],
                 ),
+
+                "three_point_field_goal_percentage": game_ratio(
+                    t["three_point_field_goals"]["made"],
+                    t["three_point_field_goals"]["attempted"],
+                )
             }
 
             # Update the state for the NEXT game.
